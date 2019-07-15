@@ -109,6 +109,30 @@ header {
 		width: 100%;
 		margin-left: 4%;
 	}
+	.services-header-img {
+		display: none;
+	}
+	.servicesPageServices {
+		width: 100%;
+		padding: 3%;
+	}
+	.servicesArticleCenter {
+		display: flex;
+		flex-direction: column;
+	}
+	.servicesArticleCenter article {
+		width: 100%;
+		margin: 2%;
+	}
+	.bottomArticleImage {
+		width: 100%;
+	}
+	.bottomArticleImage article {
+		width: 100%;
+	}
+	.bottomImage {
+		display: none;
+	}
 }
 
 
